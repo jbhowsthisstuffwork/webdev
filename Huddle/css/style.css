@@ -1,0 +1,9 @@
+.button {
+    border-radius: 50%;
+    background-color: black;
+    border-style: double;
+}
+
+.body {
+    background-color: aquamarine
+}
