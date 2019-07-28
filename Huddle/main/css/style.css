@@ -1,0 +1,23 @@
+
+.img {
+    text-shadow: 
+}
+
+.body {
+    font-family: "Poppins"
+}
+
+.h1 {
+    font-family: "Open Sans"
+}
+
+.h2 {
+    font-family: "Open Sans"
+}
+
+.button {
+    border-radius: 50%;
+    background-color: white;
+    border-style: double;
+}
+
