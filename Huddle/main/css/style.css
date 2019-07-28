@@ -4,15 +4,16 @@
 }
 
 .body {
-    font-family: "Poppins"
+    font-family: "Poppins";
+    background-color: hsl(257, 40%, 49%);
 }
 
 .h1 {
-    font-family: "Open Sans"
+    font-family: "Open Sans";
 }
 
 .h2 {
-    font-family: "Open Sans"
+    font-family: "Open Sans";
 }
 
 .button {
