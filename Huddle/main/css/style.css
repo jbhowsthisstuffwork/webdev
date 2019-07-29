@@ -1,24 +1,28 @@
 
 .logo {
-    height: auto;
+    width: 100%;
 }
 
 .demo {
-    height: 200px;
-    width: 5%;
+    width: 100%;
 }
 
 .body {
     font-family: "Poppins";
     background-color: hsl(257, 40%, 49%);
+    color: white
 }
 
-.h1 {
+body .h1 {
     font-family: "Open Sans";
+    color: white;
+    font-weight: 700
 }
 
-.h2 {
+body .h2 {
     font-family: "Open Sans";
+    color: white;
+    font-weight: 400
 }
 
 .button {
