@@ -1,6 +1,11 @@
 
-.img {
-    text-shadow: 
+.logo {
+    height: auto;
+}
+
+.demo {
+    height: 200px;
+    width: 5%;
 }
 
 .body {
@@ -17,8 +22,12 @@
 }
 
 .button {
-    border-radius: 50%;
+    border-radius: 10px;
     background-color: white;
     border-style: double;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    
 }
 
